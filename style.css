@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(176, 210, 240);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+}
+header {
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.295);
+}
+section {
+    background-color: white;
+    color: black;
+    font-size: 1em;
+    height: 400px;
+    width: 500px;
+    padding: 5px;
+    margin: auto;
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.295);
+}
+footer {
+    color: white;
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.295);
+}
